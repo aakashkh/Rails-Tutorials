@@ -5,6 +5,7 @@ This is the sample application for the (Chapter 3)
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 ##Links
+#### https://secret-citadel-8901.herokuapp.com
 #### https://secret-citadel-8901.herokuapp.com/static_pages/home
 #### https://secret-citadel-8901.herokuapp.com/static_pages/help
 #### https://secret-citadel-8901.herokuapp.com/static_pages/about
