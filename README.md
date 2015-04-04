@@ -1,9 +1,7 @@
 # Ruby on Rails Tutorial: sample application
 
-This is the sample application for the (Chapter 3)
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is the sample application for the (Chapter 3) https://www.railstutorial.org/book/static_pages
+
 ##Links
 #### https://secret-citadel-8901.herokuapp.com
 #### https://secret-citadel-8901.herokuapp.com/static_pages/home
