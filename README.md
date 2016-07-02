@@ -23,6 +23,6 @@
 - [Users List] (https://vast-thicket-6572.herokuapp.com/users)
 - [Micro Posts] (https://vast-thicket-6572.herokuapp.com/microposts)
 
-[**Chapter 1**]  
+[**Chapter 1**]  (https://www.railstutorial.org/book)
 - Demo app, chapter 1 of the book Ruby on Rails Tutorial (3rd Ed.) 
 - Deployed on Heroku - [Visit Here] (https://afternoon-sierra-5625.herokuapp.com/)
