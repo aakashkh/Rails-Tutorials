@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails Tutorial: sample application
 This is the sample application for the (Chapter 3) https://www.railstutorial.org/book/static_pages
 #####1. Stub page for creating new users
@@ -14,3 +15,9 @@ This is the sample application for the (Chapter 3) https://www.railstutorial.org
 #### https://rails-sampleapp-aakashkh.c9.io/logi
 
 ##### Didn`t used Puma web server. see chapter 7.5.2
+=======
+# Rails-Tutorial
+- Deployed on Heroku - [Visit Here] (https://afternoon-sierra-5625.herokuapp.com/)
+- Demo app, chapter 1 of the book Ruby on Rails Tutorial (3rd Ed.) 
+- [Book Website] (https://www.railstutorial.org/book)
+>>>>>>> e2fe267aeea013f7f8583c02e3c66c59f81080f4
